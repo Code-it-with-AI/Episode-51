@@ -1,6 +1,6 @@
-# Episode-51: Carl and Rocky's AI Rules (v1) for October, 2026
+# Episode-51: Rules for AI Coding v1.0 - October, 2026
 
-Carl and Rocky discuss their top rules for agentic development
+Carl and Rocky discuss their rules for agentic development
 
 📺 YouTube video: https://youtu.be/
 
