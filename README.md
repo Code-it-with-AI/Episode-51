@@ -8,6 +8,20 @@ Carl and Rocky discuss their top rules for agentic development
 
 ## Carl's Rules
 
+### Rules for Programming with AI
+
+##### 1. Pick a language you are fluent in
+
+You might be tempted to let the agent pick the language. If you do that you have no way to check the work, and that, as you will see, can lead down a dark path.
+
+##### 2. Comments and documentation
+
+Require the agent to comment all code it writes. Also, as new features are added, the agent should update a customer-facing document explaining how the software works. Another document should be created for the end-user, a user manual. Do it as the code is developed and it won't take so much time afterwards.
+
+##### 3. Small iterations
+
+Rocky says this too. My workflow is to plan big up front. Have the agent break the work into phases, and each phase into steps. Those steps will become individual commits. Before committing, read the code, run the app, and approve the commit. Rocky likes to have the agent commit locally and he approves the pushes, but I prefer to be in charge of all commits. I also ask the agent to come up with a one-paragraph commit message with no formatting. Plain text.
+
 ## Rocky's Rules
 
 ### Rules for Programming with AI
