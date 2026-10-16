@@ -1,4 +1,4 @@
-# Episode-51: Top rules for agentic development
+# Episode-51: Carl and Rocky's AI Rules (v1) for October, 2026
 
 Carl and Rocky discuss their top rules for agentic development
 
