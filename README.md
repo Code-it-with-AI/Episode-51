@@ -2,7 +2,7 @@
 
 Carl and Rocky discuss their rules for agentic development
 
-📺 YouTube video: https://youtu.be/
+📺 YouTube video: https://youtu.be/5eMH77MWpCU
 
 🏠 Code it with AI Home Page: https://codeitwithai.com
 
